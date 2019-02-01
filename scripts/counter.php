@@ -31,8 +31,11 @@
   </header>
   <div class="card-content">
     <div class="content">
-      
-      
+      <div class="columns">
+				<div class="column is-one-third"><p>Current earnings:</p></div>
+				<div class="column is-two-thirds"><input class="input" type="text" placeholder="$0"></div>
+      </div>
+
     </div>
   </div>
   <footer class="card-footer">
